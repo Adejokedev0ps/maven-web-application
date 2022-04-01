@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://52.87.227.155:8081/repository/gtbank-releases/</url>
+	      <url>http://34.207.123.118:8081/repository/ebaybts_releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.87.227.155:8081/repository/gtbank_snapshot/</url>
+	      <url>http://34.207.123.118:8081/repository/ebaybts_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
